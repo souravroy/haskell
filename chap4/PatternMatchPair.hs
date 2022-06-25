@@ -1,7 +1,7 @@
 module PatternMatchPair where
 
 {-
-Datatypre definition:
+Datatypre definition / Data declaration
 
 data (,) a b = (,) a b
 
